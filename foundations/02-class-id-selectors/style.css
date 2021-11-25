@@ -1,0 +1,18 @@
+p {
+  background-color: #f68ea0;
+  font-family: Verdana, Sans-Serif;
+}
+
+#dog {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.pup, #hero {
+  font-size: 24px;
+}
+
+#hero {
+  background-color: #8af98a;
+  font-weight: bold;
+}
